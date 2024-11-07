@@ -3,8 +3,11 @@
 #include <windows.h>
 #include <algorithm>
 #include <cctype>
+#include <chrono>
+#include <thread>
 using namespace std;
-
+using namespace std::this_thread;
+using namespace std::chrono;
 struct Book {
     string title;
     string author;
@@ -138,7 +141,7 @@ int main() {
     cout << "Entered search string: " << find << endl;
 
     findBook(library, size, find);
-
+    sleep_for(seconds(4));
     delete[] library;
     return 0;
 }
