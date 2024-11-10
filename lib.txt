@@ -1,0 +1,599 @@
+To Kill a Mockingbird
+Harper Lee
+1960
+Fiction
+1
+
+1984
+George Orwell
+1949
+Dystopian
+2
+
+The Great Gatsby
+F. Scott Fitzgerald
+1925
+Fiction
+3
+
+Pride and Prejudice
+Jane Austen
+1813
+Romance
+4
+
+The Catcher in the Rye
+J.D. Salinger
+1951
+Fiction
+5
+
+The Hobbit
+J.R.R. Tolkien
+1937
+Fantasy
+6
+
+Moby-Dick
+Herman Melville
+1851
+Adventure
+7
+
+War and Peace
+Leo Tolstoy
+1869
+Historical Fiction
+8
+
+Crime and Punishment
+Fyodor Dostoevsky
+1866
+Psychological Fiction
+9
+
+The Odyssey
+Homer
+8th century BC
+Epic
+10
+
+Brave New World
+Aldous Huxley
+1932
+Dystopian
+11
+
+Anna Karenina
+Leo Tolstoy
+1877
+Fiction
+12
+
+The Brothers Karamazov
+Fyodor Dostoevsky
+1880
+Philosophical Fiction
+13
+
+Don Quixote
+Miguel de Cervantes
+1605
+Adventure
+14
+
+The Divine Comedy
+Dante Alighieri
+1320
+Epic Poetry
+15
+
+The Iliad
+Homer
+8th century BC
+Epic
+16
+
+Les Misérables
+Victor Hugo
+1862
+Historical Fiction
+17
+
+Fahrenheit 451
+Ray Bradbury
+1953
+Dystopian
+18
+
+The Scarlet Letter
+Nathaniel Hawthorne
+1850
+Historical Fiction
+19
+
+Brave New World
+Aldous Huxley
+1932
+Dystopian
+20
+
+The Picture of Dorian Gray
+Oscar Wilde
+1890
+Philosophical Fiction
+21
+
+Frankenstein
+Mary Shelley
+1818
+Gothic Fiction
+22
+
+Jane Eyre
+Charlotte Brontë
+1847
+Romance
+23
+
+The Lord of the Rings
+J.R.R. Tolkien
+1954
+Fantasy
+24
+
+Wuthering Heights
+Emily Brontë
+1847
+Romance
+25
+
+The Metamorphosis
+Franz Kafka
+1915
+Fiction
+26
+
+Dracula
+Bram Stoker
+1897
+Gothic Fiction
+27
+
+The Stranger
+Albert Camus
+1942
+Philosophical Fiction
+28
+
+The Old Man and the Sea
+Ernest Hemingway
+1952
+Fiction
+29
+
+Slaughterhouse-Five
+Kurt Vonnegut
+1969
+Science Fiction
+30
+
+The Bell Jar
+Sylvia Plath
+1963
+Fiction
+31
+
+The Catcher in the Rye
+J.D. Salinger
+1951
+Fiction
+32
+
+The Shining
+Stephen King
+1977
+Horror
+33
+
+Moby-Dick
+Herman Melville
+1851
+Adventure
+34
+
+The Count of Monte Cristo
+Alexandre Dumas
+1844
+Adventure
+35
+
+The Grapes of Wrath
+John Steinbeck
+1939
+Historical Fiction
+36
+
+Catch-22
+Joseph Heller
+1961
+Satire
+37
+
+A Tale of Two Cities
+Charles Dickens
+1859
+Historical Fiction
+38
+
+The Sun Also Rises
+Ernest Hemingway
+1926
+Fiction
+39
+
+The Hobbit
+J.R.R. Tolkien
+1937
+Fantasy
+40
+
+The Road
+Cormac McCarthy
+2006
+Post-apocalyptic
+41
+
+The Hitchhiker's Guide to the Galaxy
+Douglas Adams
+1979
+Science Fiction
+42
+
+The Handmaid's Tale
+Margaret Atwood
+1985
+Dystopian
+43
+
+The Secret Garden
+Frances Hodgson Burnett
+1911
+Children's Fiction
+44
+
+Little Women
+Louisa May Alcott
+1868
+Fiction
+45
+
+The Call of the Wild
+Jack London
+1903
+Adventure
+46
+
+A Clockwork Orange
+Anthony Burgess
+1962
+Dystopian
+47
+
+Of Mice and Men
+John Steinbeck
+1937
+Fiction
+48
+
+Lord of the Flies
+William Golding
+1954
+Fiction
+49
+
+The Jungle
+Upton Sinclair
+1906
+Social Fiction
+50
+
+The Hitchhiker's Guide to the Galaxy
+Douglas Adams
+1979
+Science Fiction
+51
+
+The Giver
+Lois Lowry
+1993
+Dystopian
+52
+
+The Outsiders
+S.E. Hinton
+1967
+Young Adult Fiction
+53
+
+1984
+George Orwell
+1949
+Dystopian
+54
+
+Harry Potter and the Sorcerer's Stone
+J.K. Rowling
+1997
+Fantasy
+55
+
+The Chronicles of Narnia
+C.S. Lewis
+1950
+Fantasy
+56
+
+Ender's Game
+Orson Scott Card
+1985
+Science Fiction
+57
+
+A Game of Thrones
+George R.R. Martin
+1996
+Fantasy
+58
+
+The Fault in Our Stars
+John Green
+2012
+Young Adult Fiction
+59
+
+The Alchemist
+Paulo Coelho
+1988
+Adventure
+60
+
+The Great Gatsby
+F. Scott Fitzgerald
+1925
+Fiction
+61
+
+The Secret History
+Donna Tartt
+1992
+Psychological Thriller
+62
+
+Pride and Prejudice
+Jane Austen
+1813
+Romance
+63
+
+To Kill a Mockingbird
+Harper Lee
+1960
+Fiction
+64
+
+The Girl with the Dragon Tattoo
+Stieg Larsson
+2005
+Mystery
+65
+
+The Road
+Cormac McCarthy
+2006
+Post-apocalyptic
+66
+
+Gone with the Wind
+Margaret Mitchell
+1936
+Historical Fiction
+67
+
+The Lovely Bones
+Alice Sebold
+2002
+Fiction
+68
+
+Life of Pi
+Yann Martel
+2001
+Adventure
+69
+
+The Kite Runner
+Khaled Hosseini
+2003
+Drama
+70
+
+The Time Traveler's Wife
+Audrey Niffenegger
+2003
+Science Fiction
+71
+
+The Help
+Kathryn Stockett
+2009
+Historical Fiction
+72
+
+Memoirs of a Geisha
+Arthur Golden
+1997
+Historical Fiction
+73
+
+The Night Circus
+Erin Morgenstern
+2011
+Fantasy
+74
+
+The Shining
+Stephen King
+1977
+Horror
+75
+
+All the Light We Cannot See
+Anthony Doerr
+2014
+Historical Fiction
+76
+
+The Underground Railroad
+Colson Whitehead
+2016
+Historical Fiction
+77
+
+The Woman in White
+Wilkie Collins
+1859
+Gothic Fiction
+78
+
+The Martian
+Andy Weir
+2011
+Science Fiction
+79
+
+The Book Thief
+Markus Zusak
+2005
+Historical Fiction
+80
+
+A Prayer for Owen Meany
+John Irving
+1989
+Fiction
+81
+
+The Hunger Games
+Suzanne Collins
+2008
+Dystopian
+82
+
+The Maze Runner
+James Dashner
+2009
+Dystopian
+83
+
+The Outsiders
+S.E. Hinton
+1967
+Young Adult Fiction
+84
+
+The Book Thief
+Markus Zusak
+2005
+Historical Fiction
+85
+
+Brave New World
+Aldous Huxley
+1932
+Dystopian
+86
+
+The Shadow of the Wind
+Carlos Ruiz Zafón
+2001
+Mystery
+87
+
+The Nightingale
+Kristin Hannah
+2015
+Historical Fiction
+88
+
+Where the Crawdads Sing
+Delia Owens
+2018
+Mystery
+89
+
+The Silent Patient
+Alex Michaelides
+2019
+Psychological Thriller
+90
+
+Circe
+Madeline Miller
+2018
+Fantasy
+91
+
+The Priory of the Orange Tree
+Samantha Shannon
+2019
+Fantasy
+92
+
+Red, White & Royal Blue
+Casey McQuiston
+2019
+Romance
+93
+
+Anxious People
+Fredrik Backman
+2019
+Fiction
+94
+
+Big Little Lies
+Liane Moriarty
+2014
+Fiction
+95
+
+Before We Were Strangers
+Renée Carlino
+2015
+Romance
+96
+
+Verity
+Colleen Hoover
+2018
+Thriller
+97
+
+The Midnight Library
+Matt Haig
+2020
+Fantasy
+98
+
+The 5th Wave
+Rick Yancey
+2013
+Science Fiction
+99
+
+The Night Watchman
+Louise Erdrich
+2020
+Historical Fiction
+100
